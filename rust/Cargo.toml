@@ -1,0 +1,12 @@
+[package]
+name = "sbom-vuln-lab-rust"
+version = "1.0.0"
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+time = "0.1.42"
+smallvec = "0.6.9"
+openssl = "0.10.28"
+chrono = "0.4.6"
+hyper = "0.12.35"
